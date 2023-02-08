@@ -1,0 +1,90 @@
+E:\V_Studio prog\bs23\_TEMP\platformer\bin\Debug\platformer.exe.config
+E:\V_Studio prog\bs23\_TEMP\platformer\bin\Debug\platformer.exe
+E:\V_Studio prog\bs23\_TEMP\platformer\bin\Debug\platformer.pdb
+E:\V_Studio prog\bs23\_TEMP\platformer\obj\Debug\platformer.csproj.AssemblyReference.cache
+E:\V_Studio prog\bs23\_TEMP\platformer\obj\Debug\platformer.csproj.SuggestedBindingRedirects.cache
+E:\V_Studio prog\bs23\_TEMP\platformer\obj\Debug\platformer.Form1.resources
+E:\V_Studio prog\bs23\_TEMP\platformer\obj\Debug\platformer.Form2.resources
+E:\V_Studio prog\bs23\_TEMP\platformer\obj\Debug\platformer.Form3.resources
+E:\V_Studio prog\bs23\_TEMP\platformer\obj\Debug\platformer.Properties.Resources.resources
+E:\V_Studio prog\bs23\_TEMP\platformer\obj\Debug\platformer.csproj.GenerateResource.cache
+E:\V_Studio prog\bs23\_TEMP\platformer\obj\Debug\platformer.csproj.CoreCompileInputs.cache
+E:\V_Studio prog\bs23\_TEMP\platformer\obj\Debug\platformer.exe
+E:\V_Studio prog\bs23\_TEMP\platformer\obj\Debug\platformer.pdb
+E:\V_Studio prog\bs23\_TEMP\platformer\obj\Debug\platformer.Form0.resources
+E:\V_Studio prog\bs23\_TEMP\platformer\obj\Debug\platformer.Form4.resources
+E:\V_Studio prog\bs23\_TEMP\platformer\bin\Debug\Microsoft.Win32.Registry.dll
+E:\V_Studio prog\bs23\_TEMP\platformer\bin\Debug\NAudio.Asio.dll
+E:\V_Studio prog\bs23\_TEMP\platformer\bin\Debug\NAudio.Core.dll
+E:\V_Studio prog\bs23\_TEMP\platformer\bin\Debug\NAudio.dll
+E:\V_Studio prog\bs23\_TEMP\platformer\bin\Debug\NAudio.Midi.dll
+E:\V_Studio prog\bs23\_TEMP\platformer\bin\Debug\NAudio.Wasapi.dll
+E:\V_Studio prog\bs23\_TEMP\platformer\bin\Debug\NAudio.WinForms.dll
+E:\V_Studio prog\bs23\_TEMP\platformer\bin\Debug\NAudio.WinMM.dll
+E:\V_Studio prog\bs23\_TEMP\platformer\bin\Debug\System.Security.AccessControl.dll
+E:\V_Studio prog\bs23\_TEMP\platformer\bin\Debug\System.Security.Principal.Windows.dll
+E:\V_Studio prog\bs23\_TEMP\platformer\bin\Debug\Microsoft.Win32.Registry.xml
+E:\V_Studio prog\bs23\_TEMP\platformer\bin\Debug\NAudio.xml
+E:\V_Studio prog\bs23\_TEMP\platformer\bin\Debug\System.Security.AccessControl.xml
+E:\V_Studio prog\bs23\_TEMP\platformer\bin\Debug\System.Security.Principal.Windows.xml
+E:\V_Studio prog\bs23\_TEMP\platformer\obj\Debug\platformer.csproj.CopyComplete
+D:\bs\platformer\bin\Debug\platformer.exe.config
+D:\bs\platformer\bin\Debug\platformer.exe
+D:\bs\platformer\bin\Debug\platformer.pdb
+D:\bs\platformer\bin\Debug\Microsoft.Win32.Registry.dll
+D:\bs\platformer\bin\Debug\NAudio.Asio.dll
+D:\bs\platformer\bin\Debug\NAudio.Core.dll
+D:\bs\platformer\bin\Debug\NAudio.dll
+D:\bs\platformer\bin\Debug\NAudio.Midi.dll
+D:\bs\platformer\bin\Debug\NAudio.Wasapi.dll
+D:\bs\platformer\bin\Debug\NAudio.WinForms.dll
+D:\bs\platformer\bin\Debug\NAudio.WinMM.dll
+D:\bs\platformer\bin\Debug\System.Security.AccessControl.dll
+D:\bs\platformer\bin\Debug\System.Security.Principal.Windows.dll
+D:\bs\platformer\bin\Debug\Microsoft.Win32.Registry.xml
+D:\bs\platformer\bin\Debug\NAudio.xml
+D:\bs\platformer\bin\Debug\System.Security.AccessControl.xml
+D:\bs\platformer\bin\Debug\System.Security.Principal.Windows.xml
+D:\bs\platformer\obj\Debug\platformer.csproj.AssemblyReference.cache
+D:\bs\platformer\obj\Debug\platformer.csproj.SuggestedBindingRedirects.cache
+D:\bs\platformer\obj\Debug\platformer.Form0.resources
+D:\bs\platformer\obj\Debug\platformer.Form1.resources
+D:\bs\platformer\obj\Debug\platformer.Form2.resources
+D:\bs\platformer\obj\Debug\platformer.Form3.resources
+D:\bs\platformer\obj\Debug\platformer.Form4.resources
+D:\bs\platformer\obj\Debug\platformer.Properties.Resources.resources
+D:\bs\platformer\obj\Debug\platformer.csproj.GenerateResource.cache
+D:\bs\platformer\obj\Debug\platformer.csproj.CoreCompileInputs.cache
+D:\bs\platformer\obj\Debug\platformer.csproj.CopyComplete
+D:\bs\platformer\obj\Debug\platformer.exe
+D:\bs\platformer\obj\Debug\platformer.pdb
+E:\V_Studio prog\bs23\_TEMP\platformer2D-C-Sharp\platformer\bin\Debug\platformer.exe.config
+E:\V_Studio prog\bs23\_TEMP\platformer2D-C-Sharp\platformer\bin\Debug\platformer.exe
+E:\V_Studio prog\bs23\_TEMP\platformer2D-C-Sharp\platformer\bin\Debug\platformer.pdb
+E:\V_Studio prog\bs23\_TEMP\platformer2D-C-Sharp\platformer\bin\Debug\Microsoft.Win32.Registry.dll
+E:\V_Studio prog\bs23\_TEMP\platformer2D-C-Sharp\platformer\bin\Debug\NAudio.Asio.dll
+E:\V_Studio prog\bs23\_TEMP\platformer2D-C-Sharp\platformer\bin\Debug\NAudio.Core.dll
+E:\V_Studio prog\bs23\_TEMP\platformer2D-C-Sharp\platformer\bin\Debug\NAudio.dll
+E:\V_Studio prog\bs23\_TEMP\platformer2D-C-Sharp\platformer\bin\Debug\NAudio.Midi.dll
+E:\V_Studio prog\bs23\_TEMP\platformer2D-C-Sharp\platformer\bin\Debug\NAudio.Wasapi.dll
+E:\V_Studio prog\bs23\_TEMP\platformer2D-C-Sharp\platformer\bin\Debug\NAudio.WinForms.dll
+E:\V_Studio prog\bs23\_TEMP\platformer2D-C-Sharp\platformer\bin\Debug\NAudio.WinMM.dll
+E:\V_Studio prog\bs23\_TEMP\platformer2D-C-Sharp\platformer\bin\Debug\System.Security.AccessControl.dll
+E:\V_Studio prog\bs23\_TEMP\platformer2D-C-Sharp\platformer\bin\Debug\System.Security.Principal.Windows.dll
+E:\V_Studio prog\bs23\_TEMP\platformer2D-C-Sharp\platformer\bin\Debug\Microsoft.Win32.Registry.xml
+E:\V_Studio prog\bs23\_TEMP\platformer2D-C-Sharp\platformer\bin\Debug\NAudio.xml
+E:\V_Studio prog\bs23\_TEMP\platformer2D-C-Sharp\platformer\bin\Debug\System.Security.AccessControl.xml
+E:\V_Studio prog\bs23\_TEMP\platformer2D-C-Sharp\platformer\bin\Debug\System.Security.Principal.Windows.xml
+E:\V_Studio prog\bs23\_TEMP\platformer2D-C-Sharp\platformer\obj\Debug\platformer.csproj.AssemblyReference.cache
+E:\V_Studio prog\bs23\_TEMP\platformer2D-C-Sharp\platformer\obj\Debug\platformer.csproj.SuggestedBindingRedirects.cache
+E:\V_Studio prog\bs23\_TEMP\platformer2D-C-Sharp\platformer\obj\Debug\platformer.Form0.resources
+E:\V_Studio prog\bs23\_TEMP\platformer2D-C-Sharp\platformer\obj\Debug\platformer.Form1.resources
+E:\V_Studio prog\bs23\_TEMP\platformer2D-C-Sharp\platformer\obj\Debug\platformer.Form2.resources
+E:\V_Studio prog\bs23\_TEMP\platformer2D-C-Sharp\platformer\obj\Debug\platformer.Form3.resources
+E:\V_Studio prog\bs23\_TEMP\platformer2D-C-Sharp\platformer\obj\Debug\platformer.Form4.resources
+E:\V_Studio prog\bs23\_TEMP\platformer2D-C-Sharp\platformer\obj\Debug\platformer.Properties.Resources.resources
+E:\V_Studio prog\bs23\_TEMP\platformer2D-C-Sharp\platformer\obj\Debug\platformer.csproj.GenerateResource.cache
+E:\V_Studio prog\bs23\_TEMP\platformer2D-C-Sharp\platformer\obj\Debug\platformer.csproj.CoreCompileInputs.cache
+E:\V_Studio prog\bs23\_TEMP\platformer2D-C-Sharp\platformer\obj\Debug\platformer.csproj.CopyComplete
+E:\V_Studio prog\bs23\_TEMP\platformer2D-C-Sharp\platformer\obj\Debug\platformer.exe
+E:\V_Studio prog\bs23\_TEMP\platformer2D-C-Sharp\platformer\obj\Debug\platformer.pdb
