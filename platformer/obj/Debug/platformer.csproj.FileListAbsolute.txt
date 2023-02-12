@@ -88,3 +88,33 @@ E:\V_Studio prog\bs23\_TEMP\platformer2D-C-Sharp\platformer\obj\Debug\platformer
 E:\V_Studio prog\bs23\_TEMP\platformer2D-C-Sharp\platformer\obj\Debug\platformer.csproj.CopyComplete
 E:\V_Studio prog\bs23\_TEMP\platformer2D-C-Sharp\platformer\obj\Debug\platformer.exe
 E:\V_Studio prog\bs23\_TEMP\platformer2D-C-Sharp\platformer\obj\Debug\platformer.pdb
+D:\bs\platformer2D-C-Sharp\platformer\bin\Debug\platformer.exe.config
+D:\bs\platformer2D-C-Sharp\platformer\bin\Debug\platformer.exe
+D:\bs\platformer2D-C-Sharp\platformer\bin\Debug\platformer.pdb
+D:\bs\platformer2D-C-Sharp\platformer\bin\Debug\Microsoft.Win32.Registry.dll
+D:\bs\platformer2D-C-Sharp\platformer\bin\Debug\NAudio.Asio.dll
+D:\bs\platformer2D-C-Sharp\platformer\bin\Debug\NAudio.Core.dll
+D:\bs\platformer2D-C-Sharp\platformer\bin\Debug\NAudio.dll
+D:\bs\platformer2D-C-Sharp\platformer\bin\Debug\NAudio.Midi.dll
+D:\bs\platformer2D-C-Sharp\platformer\bin\Debug\NAudio.Wasapi.dll
+D:\bs\platformer2D-C-Sharp\platformer\bin\Debug\NAudio.WinForms.dll
+D:\bs\platformer2D-C-Sharp\platformer\bin\Debug\NAudio.WinMM.dll
+D:\bs\platformer2D-C-Sharp\platformer\bin\Debug\System.Security.AccessControl.dll
+D:\bs\platformer2D-C-Sharp\platformer\bin\Debug\System.Security.Principal.Windows.dll
+D:\bs\platformer2D-C-Sharp\platformer\bin\Debug\Microsoft.Win32.Registry.xml
+D:\bs\platformer2D-C-Sharp\platformer\bin\Debug\NAudio.xml
+D:\bs\platformer2D-C-Sharp\platformer\bin\Debug\System.Security.AccessControl.xml
+D:\bs\platformer2D-C-Sharp\platformer\bin\Debug\System.Security.Principal.Windows.xml
+D:\bs\platformer2D-C-Sharp\platformer\obj\Debug\platformer.csproj.AssemblyReference.cache
+D:\bs\platformer2D-C-Sharp\platformer\obj\Debug\platformer.csproj.SuggestedBindingRedirects.cache
+D:\bs\platformer2D-C-Sharp\platformer\obj\Debug\platformer.Form0.resources
+D:\bs\platformer2D-C-Sharp\platformer\obj\Debug\platformer.Form1.resources
+D:\bs\platformer2D-C-Sharp\platformer\obj\Debug\platformer.Form2.resources
+D:\bs\platformer2D-C-Sharp\platformer\obj\Debug\platformer.Form3.resources
+D:\bs\platformer2D-C-Sharp\platformer\obj\Debug\platformer.Form4.resources
+D:\bs\platformer2D-C-Sharp\platformer\obj\Debug\platformer.Properties.Resources.resources
+D:\bs\platformer2D-C-Sharp\platformer\obj\Debug\platformer.csproj.GenerateResource.cache
+D:\bs\platformer2D-C-Sharp\platformer\obj\Debug\platformer.csproj.CoreCompileInputs.cache
+D:\bs\platformer2D-C-Sharp\platformer\obj\Debug\platformer.csproj.CopyComplete
+D:\bs\platformer2D-C-Sharp\platformer\obj\Debug\platformer.exe
+D:\bs\platformer2D-C-Sharp\platformer\obj\Debug\platformer.pdb
