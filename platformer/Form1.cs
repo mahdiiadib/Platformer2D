@@ -59,7 +59,7 @@ namespace platformer
             Properties.Resources.monkeL16
         };
         int R = 0, L = 0;
-        string lastDir = "R";
+        char lastDir = 'R';
 
 
         bool up, dn;
@@ -189,7 +189,7 @@ namespace platformer
                     R++;
                     if (R == pR.Count) R = 0;
                 }
-                lastDir = "R";
+                lastDir = 'R';
             }
             else if (goLeft)
             {
@@ -201,19 +201,19 @@ namespace platformer
                     L++;
                     if (L == pL.Count) L = 0;
                 }
-                lastDir = "L";
+                lastDir = 'L';
             }
             else
             {
-                if(lastDir=="R")
+                if(lastDir=='R')
                 {
                     player.Image = Properties.Resources.monkeR0;
-                    //R = 0;
+                    R = 0;
                 }
-                else if(lastDir=="L")
+                else if(lastDir=='L')
                 {
                     player.Image = Properties.Resources.monkeL0;
-                    //L = 0;
+                    L = 0;
                 }
             }
         }
