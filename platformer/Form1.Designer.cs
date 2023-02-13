@@ -154,7 +154,7 @@
             // player
             // 
             this.player.BackColor = System.Drawing.Color.Transparent;
-            this.player.Image = global::platformer.Properties.Resources.CharacterR;
+            this.player.Image = global::platformer.Properties.Resources.monkeR0;
             this.player.Location = new System.Drawing.Point(83, 465);
             this.player.Name = "player";
             this.player.Size = new System.Drawing.Size(32, 64);
@@ -234,6 +234,7 @@
             this.Controls.Add(this.hazard1);
             this.DoubleBuffered = true;
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Fixed3D;
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "Form1";

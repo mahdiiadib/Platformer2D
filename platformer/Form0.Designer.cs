@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form0));
             this.startBtn = new System.Windows.Forms.Button();
             this.quitButton = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
@@ -68,17 +69,17 @@
             this.label1.AutoSize = true;
             this.label1.BackColor = System.Drawing.Color.Transparent;
             this.label1.Font = new System.Drawing.Font("Papyrus", 72F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(335, 45);
+            this.label1.Location = new System.Drawing.Point(307, 49);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(530, 151);
+            this.label1.Size = new System.Drawing.Size(570, 151);
             this.label1.TabIndex = 1;
-            this.label1.Text = "The Game";
+            this.label1.Text = "The Monke";
             // 
             // pictureBox1
             // 
             this.pictureBox1.BackColor = System.Drawing.Color.Transparent;
-            this.pictureBox1.Image = global::platformer.Properties.Resources.characterL;
-            this.pictureBox1.Location = new System.Drawing.Point(167, 45);
+            this.pictureBox1.Image = global::platformer.Properties.Resources.monkeL5;
+            this.pictureBox1.Location = new System.Drawing.Point(139, 49);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(162, 151);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -97,6 +98,7 @@
             this.Controls.Add(this.quitButton);
             this.Controls.Add(this.startBtn);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Fixed3D;
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "Form0";

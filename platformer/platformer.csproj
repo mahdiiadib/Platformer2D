@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <ApplicationIcon>characterL.ico</ApplicationIcon>
+    <ApplicationIcon>monkeL1.ico</ApplicationIcon>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Microsoft.Win32.Registry, Version=5.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
@@ -218,6 +218,41 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="characterL.ico" />
+    <Content Include="monkeL1.ico" />
+    <None Include="res\monkeR16.png" />
+    <None Include="res\monkeR15.png" />
+    <None Include="res\monkeR14.png" />
+    <None Include="res\monkeR13.png" />
+    <None Include="res\monkeR12.png" />
+    <None Include="res\monkeR11.png" />
+    <None Include="res\monkeR10.png" />
+    <None Include="res\monkeR9.png" />
+    <None Include="res\monkeR8.png" />
+    <None Include="res\monkeR7.png" />
+    <None Include="res\monkeR6.png" />
+    <None Include="res\monkeR5.png" />
+    <None Include="res\monkeL16.png" />
+    <None Include="res\monkeL15.png" />
+    <None Include="res\monkeL14.png" />
+    <None Include="res\monkeL13.png" />
+    <None Include="res\monkeL12.png" />
+    <None Include="res\monkeL11.png" />
+    <None Include="res\monkeL10.png" />
+    <None Include="res\monkeL9.png" />
+    <None Include="res\monkeL8.png" />
+    <None Include="res\monkeL7.png" />
+    <None Include="res\monkeL6.png" />
+    <None Include="res\monkeL5.png" />
+    <None Include="res\monkeR4.png" />
+    <None Include="res\monkeR3.png" />
+    <None Include="res\monkeR2.png" />
+    <None Include="res\monkeR1.png" />
+    <None Include="res\monkeR0.png" />
+    <None Include="res\monkeL4.png" />
+    <None Include="res\monkeL3.png" />
+    <None Include="res\monkeL2.png" />
+    <None Include="res\monkeL1.png" />
+    <None Include="res\monkeL0.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

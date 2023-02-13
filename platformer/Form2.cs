@@ -16,8 +16,53 @@ namespace platformer
     public partial class Form2 : Form
     {
         bool goLeft, goRight, jumping, landed, hit, hasKey;
-        int pxVel = 15, pyVel = 0, pjVel = 25;
+        int pxVel = 13, pyVel = 0, pjVel = 25;
         int mpVel = 10, meVel = 8;
+
+
+        List<Bitmap> pR = new List<Bitmap>()
+        {
+            //Properties.Resources.monkeR0,
+            Properties.Resources.monkeR1,
+            Properties.Resources.monkeR2,
+            Properties.Resources.monkeR3,
+            Properties.Resources.monkeR4,
+            Properties.Resources.monkeR5,
+            Properties.Resources.monkeR6,
+            Properties.Resources.monkeR7,
+            Properties.Resources.monkeR8,
+            Properties.Resources.monkeR9,
+            Properties.Resources.monkeR10,
+            Properties.Resources.monkeR11,
+            Properties.Resources.monkeR12,
+            Properties.Resources.monkeR13,
+            Properties.Resources.monkeR14,
+            Properties.Resources.monkeR15,
+            Properties.Resources.monkeR16
+        };
+        List<Bitmap> pL = new List<Bitmap>()
+        {
+            //Properties.Resources.monkeL0,
+            Properties.Resources.monkeL1,
+            Properties.Resources.monkeL2,
+            Properties.Resources.monkeL3,
+            Properties.Resources.monkeL4,
+            Properties.Resources.monkeL5,
+            Properties.Resources.monkeL6,
+            Properties.Resources.monkeL7,
+            Properties.Resources.monkeL8,
+            Properties.Resources.monkeL9,
+            Properties.Resources.monkeL10,
+            Properties.Resources.monkeL11,
+            Properties.Resources.monkeL12,
+            Properties.Resources.monkeL13,
+            Properties.Resources.monkeL14,
+            Properties.Resources.monkeL15,
+            Properties.Resources.monkeL16
+        };
+        int R = 0, L = 0;
+        string lastDir = "L";
+
 
         bool up, dn;
         void moveV()
@@ -30,13 +75,14 @@ namespace platformer
         public Form2()
         {
             InitializeComponent();
+            this.Text = "Level 2";
 
             label1.Visible = label2.Visible = label3.Visible = label4.Visible = label5.Visible = false;
             foreach (Control x in Controls)
             {
                 x.Parent = this;
             }
-            label6.Text = $"Retries: {Form0.retries}";
+            label6.Text = $"Retries: {platformer.Form0.retries}";
         }
 
         private void Form2_FormClosed(object sender, FormClosedEventArgs e)
@@ -46,13 +92,13 @@ namespace platformer
 
         private void MainGameTimer_Tick(object sender, EventArgs e)
         {
-            if (Form0.wout1.PlaybackState == PlaybackState.Stopped)
+            if (platformer.Form0.wout1.PlaybackState == PlaybackState.Stopped)
             {
                 //Form0.wstream1.CurrentTime = new TimeSpan(0);
-                Form0.GetNextSong();
-                Form0.wout1.Play();
+                platformer.Form0.GetNextSong();
+                platformer.Form0.wout1.Play();
             }
-            else if (Form0.wout1.PlaybackState == PlaybackState.Paused) Form0.wout1.Resume();
+            else if (platformer.Form0.wout1.PlaybackState == PlaybackState.Paused) platformer.Form0.wout1.Resume();
 
             MovePlayerHorizontal();
             MovePlayerVertical();
@@ -136,15 +182,42 @@ namespace platformer
 
         void MovePlayerHorizontal()
         {
-            if (goRight && player.Right < ClientSize.Width)
+            if (goRight)
             {
-                player.Left += pxVel;
-                player.Image = Properties.Resources.CharacterR;
+                if (player.Right < ClientSize.Width)
+                {
+                    player.Left += pxVel;
+                    //player.Image = Properties.Resources.monkeR0;
+                    player.Image = pR[R];
+                    R++;
+                    if (R == pR.Count) R = 0;
+                }
+                lastDir = "R";
             }
-            if (goLeft && player.Left > 0)
+            else if (goLeft)
             {
-                player.Left -= pxVel;
-                player.Image = Properties.Resources.characterL;
+                if (player.Left > 0)
+                {
+                    player.Left -= pxVel;
+                    //player.Image = Properties.Resources.monkeL0;
+                    player.Image = pL[L];
+                    L++;
+                    if (L == pL.Count) L = 0;
+                }
+                lastDir = "L";
+            }
+            else
+            {
+                if (lastDir == "R")
+                {
+                    player.Image = Properties.Resources.monkeR0;
+                    //R = 0;
+                }
+                else if (lastDir == "L")
+                {
+                    player.Image = Properties.Resources.monkeL0;
+                    //L = 0;
+                }
             }
         }
 
@@ -200,12 +273,12 @@ namespace platformer
 
         void RestartLevel()
         {
-            Form0.wout1.Pause();
+            platformer.Form0.wout1.Pause();
             SoundPlayer sp = new SoundPlayer("Lose.wav");
             sp.Play();
             MessageBox.Show("Died :(");
 
-            Form0.retries++;
+            platformer.Form0.retries++;
             Form2 form2 = new Form2();
             form2.Show();
             Hide();
@@ -213,7 +286,7 @@ namespace platformer
 
         void NextLevel()
         {
-            Form0.wout1.Pause();
+            platformer.Form0.wout1.Pause();
             SoundPlayer sp = new SoundPlayer(@"Star.wav");
             sp.Play();
 

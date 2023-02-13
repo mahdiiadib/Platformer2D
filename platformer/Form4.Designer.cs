@@ -88,7 +88,7 @@
             // player
             // 
             this.player.BackColor = System.Drawing.Color.Transparent;
-            this.player.Image = global::platformer.Properties.Resources.CharacterR;
+            this.player.Image = global::platformer.Properties.Resources.monkeR0;
             this.player.Location = new System.Drawing.Point(80, 379);
             this.player.Name = "player";
             this.player.Size = new System.Drawing.Size(32, 64);
@@ -330,6 +330,7 @@
             this.Controls.Add(this.pictureBox8);
             this.Controls.Add(this.BgPicBox);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Fixed3D;
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "Form4";

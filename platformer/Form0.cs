@@ -27,6 +27,7 @@ namespace platformer
         public Form0()
         {
             InitializeComponent();
+            this.Text = "Menu";
             
             retries = 0;
 
