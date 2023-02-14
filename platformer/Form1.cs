@@ -205,12 +205,12 @@ namespace platformer
             }
             else
             {
-                if(lastDir=='R')
+                if (lastDir == 'R')
                 {
                     player.Image = Properties.Resources.monkeR0;
                     R = 0;
                 }
-                else if(lastDir=='L')
+                else if (lastDir == 'L')
                 {
                     player.Image = Properties.Resources.monkeL0;
                     L = 0;
